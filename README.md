@@ -2,7 +2,7 @@
 
 This project exists as a proof of a Logstash encoder bug which causes it to ignore unknown types, silently ignoring logs.
 
-See: (link to be added when bug ticket is open)
+See: <https://github.com/logfellow/logstash-logback-encoder/issues/1007>
 
 ## Compiling and checking
 
