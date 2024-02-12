@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package spotify.logstashbug;
+option java_multiple_files = true;
+option java_package = "com.spotify.logstashbug.proto";
+
+message TestMessage {
+  string hello = 1;
+  int32 world = 2;
+}
